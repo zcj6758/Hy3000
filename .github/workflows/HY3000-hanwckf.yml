@@ -83,7 +83,7 @@ env:
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: HY3000-hanwckf/feeds.conf.default
   HY3000_DTS_FILE: target/linux/mediatek/files-5.4/arch/arm64/boot/dts/mediatek/mt7981-philips-hy3000.dts
-  CONFIG_FILE: HY3000-hanwckf/.mtwifi-cfg.config
+  CONFIG_FILE: HY3000-hanwckf/HY3000USB.config
   DIY_P1_SH: HY3000-hanwckf/diy-part1.sh
   DIY_P2_SH: HY3000-hanwckf/diy-part2.sh
   DIY_P3_SH: HY3000-hanwckf/diy-part3.sh
